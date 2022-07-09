@@ -11,3 +11,5 @@ Components you need:
 - ON / OFF switch
 - 3D Printer
 - 4 Screws
+
+![Page_Turner](https://github.com/pellematrose/PageTurner/blob/main/Page_Turner.jpg)

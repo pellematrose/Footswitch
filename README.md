@@ -4,6 +4,8 @@ Playing on stage an instrument where you need both hands, bass guitar in my case
 The ESP is acting as a HID exposed over BLE. With pushing a button the ESP will send a command to turn over to the next page or going one page back with the other button.
 The electronics is feed by a small Li-Ion battery. It is charged over micro USB.
 
+All inspiration and code was taken from [here](https://codeandlife.com/2021/05/23/diy-bluetooth-sheet-music-page-turn-pedal-with-esp32/)
+
 Works with Android (Songbook Pro, Adobe Reader), iPad (Onsong, Adobe Reader), many more
 
 Components you need:
